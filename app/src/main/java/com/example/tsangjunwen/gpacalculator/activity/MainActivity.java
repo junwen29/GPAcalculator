@@ -16,7 +16,7 @@ import android.widget.Toast;
 import com.example.tsangjunwen.gpacalculator.helper.PreferenceStore;
 import com.example.tsangjunwen.gpacalculator.R;
 
-
+// JK: My first comment for git!
 public class MainActivity extends ActionBarActivity {
 
     private PreferenceStore mStore;
